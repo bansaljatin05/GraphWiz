@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <header>GraphiZ</header>
+        <header>GraphWiz</header>
         <ToNavigate className="App-navigate" />
       </header>
     </div>

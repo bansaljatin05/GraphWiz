@@ -1,7 +1,7 @@
 # GraphiX
 
-This is a web portal developed using React JS.
-
+This is a web application developed using React JS.
+Live version of the application can be accessed at https://graphwiz.netlify.app/
 
 ### Functionalities of the Project:
 * Nodes are created by clicking on the screen.

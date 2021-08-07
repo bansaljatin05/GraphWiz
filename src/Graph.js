@@ -247,9 +247,10 @@ class Graph extends Component {
 
   DFS = (event) => {
     let l = event.target.classList[0];
-    alert(`DFS is called starting with vertex ${l}`);
+
     if (l === "transparent" || l === "App-edge") {
     } else {
+      alert(`DFS is called starting with vertex ${l}`);
       l = parseInt(l);
       console.log(`Starting dfs with ${l}`);
       var stack = [];

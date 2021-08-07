@@ -13,13 +13,13 @@
   z-index: 1;
 }
 
-.App-graph{
+.App-graph {
   padding: 20px;
   background-color: rgb(31, 88, 114);
   z-index: 1;
 }
 
-.transparent{
+.transparent {
   position: relative;
   width: 100%;
   height: 100%;
@@ -71,8 +71,6 @@
 
 .grid-container {
   display: grid;
-}
-.grid-item {
 }
 
 .App-body {
